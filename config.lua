@@ -43,15 +43,15 @@ QBConfig.Notify.NotificationStyling = {
 QBConfig.Notify.VariantDefinitions = {
     success = {
         classes = 'success',
-        icon = 'done'
+        icon = 'verified_user'
     },
     primary = {
         classes = 'primary',
-        icon = 'info'
+        icon = 'privacy_tip'
     },
     error = {
         classes = 'error',
-        icon = 'dangerous'
+        icon = 'gpp_bad'
     },
     police = {
         classes = 'police',
@@ -59,6 +59,6 @@ QBConfig.Notify.VariantDefinitions = {
     },
     ambulance = {
         classes = 'ambulance',
-        icon = 'fas fa-ambulance'
+        icon = 'health_and_safety'
     }
 }
