@@ -2,6 +2,10 @@
 
 ### [Official QBCore Documentation](https://docs.qbcore.org)
 
+## Screenshots
+![General](https://media.discordapp.net/attachments/996201869712035921/1090428174267076678/image.png?width=540&height=671)
+![General1](https://media.discordapp.net/attachments/996201869712035921/1090428740561031168/image.png?width=544&height=671)
+
 # License
 
     QBCore Framework
